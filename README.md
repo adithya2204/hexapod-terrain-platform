@@ -45,12 +45,13 @@ The platform is intended for research and experimentation in:
 
 ---
 
-## Research Status
+## Related Research Project
 
-The complete repository containing CAD models, detailed analyses, and fabrication documentation is currently part of ongoing academic research and is not included in this public summary.
+This hexapod platform serves as the mechanical foundation for the following research project exploring bio-inspired locomotion and navigation:
 
-Selected materials will be released publicly following completion of the associated research work.
-
+```bash
+https://github.com/adithya2204/bio-inspired-hexapod-navigation
+```
 ---
 
 ## Author
