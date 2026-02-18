@@ -1,56 +1,54 @@
-# Hexapod Robot for Terrain Navigation – Project Summary
+# Hexapod Robot for Terrain Navigation — Research Platform Summary
 
-## Overview
+This repository provides an overview of a research-oriented hexapod robotic platform developed for terrain navigation and mobility experimentation.
 
-This repository provides a summary of a research-oriented hexapod robot designed for terrain navigation and advanced mobility applications. The robot features a robust polycarbonate frame fabricated using FDM 3D printing, with leg designs supporting both 12-servo and 18-servo configurations. Its design enables stable locomotion over uneven and inclined surfaces using biologically inspired gait patterns.
-
-The complete implementation, including CAD models, reports, and analyses, is part of an academic research project. This summary is intended for collaborators, researchers, and recruiters interested in multi-legged robotic systems.
-
-## Key Features
-
-- Polycarbonate-based body design for strength and impact resistance
-- 3D-printed components optimized for durability using FDM technology
-- 3 degrees of freedom per leg (coxa, femur, tibia) in the 18-servo configuration
-- Supports multiple gaits, including tripod and wave gaits, for adaptable movement
-- Includes forward and inverse kinematics for precise control
-- Integrated torque analysis to ensure component compatibility
-- Potential for onboard sensing and visual navigation using structure-from-motion techniques
-## Solidwork images
-![image](https://github.com/user-attachments/assets/59b8ebe4-793b-400e-9b97-d552e9344963)
-
-
-![image](https://github.com/user-attachments/assets/37b0d5aa-b446-4713-9f6a-73d1c099b4db)
-
-
-## Applications
-
-- Disaster relief and search-and-rescue operations in complex terrains
-- Autonomous delivery of medical supplies in hazardous environments
-- Educational and research use for studying gait generation and kinematic control in legged robots
-
-## Project Status
-
-The full repository includes detailed CAD models, design documentation, and analytical reports. These materials are currently being used in support of a research publication and are not included in this summary.
-
-This public version is intended to communicate the scope and intent of the project without disclosing sensitive research material.
-
-## Requesting Access
-
-If you are a recruiter, research collaborator, or academic peer interested in accessing the full content for evaluation or discussion, please reach out:
-
-**adithyapothula123@gmail.com**
-
-Access can be granted upon request with appropriate context.
-
-## Acknowledgments
-
-Developed at Amrita Vishwa Vidyapeetham  
-Design and development by Adithya Pothula
-
-## License
-
-Apache-2.0
+The platform is designed to support studies in legged locomotion, kinematic control, and autonomous navigation in unstructured environments. Its modular mechanical architecture and configurable actuation allow investigation of multiple gait strategies and control approaches.
 
 ---
 
-*This project contributes to the field of legged robotics by offering a mechanically and kinematically robust platform for research in real-world terrain navigation and autonomous delivery.*
+## Platform Overview
+
+The robot features a polycarbonate structural frame fabricated using FDM 3D printing, supporting both 12-servo and 18-servo configurations. Each leg is composed of coxa, femur, and tibia segments, enabling multi-degree-of-freedom motion and adaptable gait generation.
+
+The design emphasizes robustness, modularity, and compatibility with sensing and perception modules for future autonomy research.
+
+---
+
+## Technical Highlights
+
+- Polycarbonate-based body for strength and impact resistance  
+- FDM-fabricated components optimized for durability  
+- Up to 3 DOF per leg enabling complex locomotion strategies  
+- Support for biologically inspired gaits such as tripod and wave patterns  
+- Forward and inverse kinematic modeling for motion planning  
+- Torque analysis guiding actuator selection and structural design  
+- Designed for integration with perception and navigation modules  
+
+---
+
+## Applications
+
+The platform is intended for research and experimentation in:
+
+- Legged robot locomotion and gait analysis  
+- Terrain-adaptive mobility systems  
+- Autonomous navigation in complex environments  
+- Robotic assistance in disaster-response scenarios  
+
+---
+
+## Research Status
+
+The complete repository containing CAD models, detailed analyses, and fabrication documentation is currently part of ongoing academic research and is not included in this public summary.
+
+Selected materials will be released publicly following completion of the associated research work.
+
+---
+
+## Author
+
+**Adithya Pothula**  
+Robotics Researcher — Legged Systems & Autonomous Navigation  
+
+GitHub: https://github.com/adithya2204  
+Google Scholar: https://scholar.google.com/citations?hl=en&user=NI9WpkQAAAAJ
