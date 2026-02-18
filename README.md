@@ -12,6 +12,14 @@ The robot features a polycarbonate structural frame fabricated using FDM 3D prin
 
 The design emphasizes robustness, modularity, and compatibility with sensing and perception modules for future autonomy research.
 
+### CAD Design Preview
+
+![Hexapod CAD](https://github.com/user-attachments/assets/59b8ebe4-793b-400e-9b97-d552e9344963)
+
+### Structural Layout
+
+![Hexapod Structure](https://github.com/user-attachments/assets/37b0d5aa-b446-4713-9f6a-73d1c099b4db)
+
 ---
 
 ## Technical Highlights
@@ -22,7 +30,7 @@ The design emphasizes robustness, modularity, and compatibility with sensing and
 - Support for biologically inspired gaits such as tripod and wave patterns  
 - Forward and inverse kinematic modeling for motion planning  
 - Torque analysis guiding actuator selection and structural design  
-- Designed for integration with perception and navigation modules  
+- Designed for integration with sensing and perception modules  
 
 ---
 
